@@ -1,0 +1,752 @@
+{
+    "0": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 180,
+        "poz_F_name": [
+            2760,
+            2150
+        ],
+        "poz_name": [
+            2400,
+            2625
+        ],
+        "colour_f": "#4682B4",
+        "colour_name": "#4B0082"
+    },
+    "1": {
+        "file_name": "2.jpg",
+        "F_name": "майских жуков",
+        "saze" : 200,
+        "poz_F_name": [
+            933,
+            1600
+        ],
+        "poz_name": [
+            500,
+            2120
+        ],
+        "colour_f": "#FFEFD5",
+        "colour_name": "#FFB6C1"
+    },
+    "2": {
+        "file_name": "3.jpg",
+        "F_name": "майских жуков",
+        "saze" : 70,
+        "poz_F_name": [
+            521,
+            850
+        ],
+        "poz_name": [
+            430,
+            1000
+        ],
+        "colour_f": "#F5DEB3",
+        "colour_name": "#FFA07A"
+    },
+    "3": {
+        "file_name": "4.jpg",
+        "F_name": "майских жуков",
+        "saze" : 70,
+        "poz_F_name": [
+            380,
+            870
+        ],
+        "poz_name": [
+            250,
+            1005
+        ],
+        "colour_f": "#FAEBD7",
+        "colour_name": "#B0E0E6"
+    },
+    "4": {
+        "file_name": "5.jpg",
+        "F_name": "майских жуков",
+        "saze" : 170,
+        "poz_F_name": [
+            2290,
+            970
+        ],
+        "poz_name": [
+            1990,
+            1383
+        ],
+        "colour_f": "#F0E68C",
+        "colour_name": "#FFFACD"
+    },
+    "5": {
+        "file_name": "6.jpg",
+        "F_name": "майских жуков",
+        "saze" : 80,
+        "poz_F_name": [
+            760,
+            800
+        ],
+        "poz_name": [
+            670,
+            980
+        ],
+        "colour_f": "#B0E0E6",
+        "colour_name": "#E6E6FA"
+    },
+    "6": {
+        "file_name": "7.jpg",
+        "F_name": "майских жуков",
+        "saze" : 250,
+        "poz_F_name": [
+            890,
+            2850
+        ],
+        "poz_name": [
+            550,
+            3150
+        ],
+        "colour_f": "#FF00FF",
+        "colour_name": "#4B0082"
+    },
+    "7": {
+        "file_name": "8.jpg",
+        "F_name": "майских жуков",
+        "saze" : 250,
+        "poz_F_name": [
+            805,
+            2930
+        ],
+        "poz_name": [
+            500,
+            3350
+        ],
+        "colour_f": "#E6E6FA",
+        "colour_name": "#E0FFFF"
+    },
+    "8": {
+        "file_name": "9.jpg",
+        "F_name": "майских жуков",
+        "saze" : 150,
+        "poz_F_name": [
+            720,
+            2000
+        ],
+        "poz_name": [
+            380,
+            2205
+        ],
+        "colour_f": "#FFF5EE",
+        "colour_name": "#E6E6FA"
+    },
+    "9": {
+        "file_name": "10.jpg",
+        "F_name": "майских жуков",
+        "saze" : 130,
+        "poz_F_name": [
+            480,
+            1225
+        ],
+        "poz_name": [
+            250,
+            1390
+        ],
+        "colour_f": "#E6E6FA",
+        "colour_name": "#E0FFFF"
+    },
+    "10": {
+        "file_name": "11.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "11": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "12": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "13": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "14": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "15": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "16": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "17": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "18": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "19": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "20": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "21": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "22": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "23": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "24": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "25": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "26": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "27": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "28": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "29": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "30": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "31": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "32": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "33": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "34": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "35": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "36": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "37": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "38": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "39": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "40": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "41": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "42": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "43": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "44": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "45": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "46": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "47": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "48": {
+        "file_name": "1.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    },
+    "49": {
+        "file_name": "1000.jpg",
+        "F_name": "майских жуков",
+        "saze" : 30,
+        "poz_F_name": [
+            2891,
+            2310
+        ],
+        "poz_name": [
+            2529,
+            2786
+        ],
+        "colour_f": "#1CA606",
+        "colour_name": "#1CA606"
+    }
+}
